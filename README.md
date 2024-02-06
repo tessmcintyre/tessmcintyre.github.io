@@ -1,4 +1,4 @@
-#### Western Fence Lizards & Northern Elephant Seals
+/#### Western Fence Lizards & Northern Elephant Seals
 
 ## Education							       		
 - M.S. Wildlife Physiology | San Jose State University (_2023-2025_)	 			        		
@@ -7,7 +7,7 @@
 ## Projects
 **Transgenerational impacts of maternal stress in Sceloporus occidentalis: Wound healing capabilities in lizard neonates (_2023-2025_)**
 
-[Read More](https://www.mdpi.com/1424-8220/22/8/3048)
+[Read More](./stressphysiology.html)
 
 Master's thesis work in western fence lizard stress physiology. Examining the impact of anthropogenic disturbances in a habitat on lizards’ ability to survive predation and heal from wounds.
 
