@@ -1,6 +1,3 @@
-# Tess McIntyre
-# Wildlife physiological ecology
-
 #### Western Fence Lizards & Northern Elephant Seals
 
 ## Education							       		
