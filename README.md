@@ -13,7 +13,7 @@ Master's thesis work in western fence lizard stress physiology. Examining the im
 
 **Drought Impacts on Gambelia sila: Endangered lizard hydrophysiology and diet (_2021-2024_)**
 
-[Read More](https://www.mdpi.com/1424-8220/22/11/4240)
+[Read More](./BNLL.html)
 
 Studied water loss across the skin in blunt-nosed leopard lizards and quantified dietary water availability. 
 
