@@ -3,9 +3,9 @@ Biological sciences master's student at San Jose State University with research 
 
 Email: tess.mcintyre@sjsu.edu
 
-LinkedIn: [@tessmcintyre](./https://www.linkedin.com/in/tessmcintyre/)
+LinkedIn: [@tessmcintyre](https://www.linkedin.com/in/tessmcintyre/)
 
-Living CV: [Links to Google Docs](./https://docs.google.com/document/d/1bI2r__Oez5Ioz6P-OCITQES_pvT23VSpC0dJUuF_5PA/edit?usp=sharing/)
+Living CV: [Links to Google Docs](https://docs.google.com/document/d/1bI2r__Oez5Ioz6P-OCITQES_pvT23VSpC0dJUuF_5PA/edit?usp=sharing/)
 
 ## Education							       		
 - M.S. Wildlife Physiology - San Jose State University (_2023-2025_)	 			        		
