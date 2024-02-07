@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gambelia sila research
+title: _Gambelia sila_ Research
 description: Carrizo Plain National Monument
 ---
 
