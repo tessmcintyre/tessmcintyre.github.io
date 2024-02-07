@@ -17,11 +17,11 @@ Living CV: [Links to Google Docs](https://docs.google.com/document/d/1bI2r__Oez5
 
 - Master's thesis work in western fence lizard stress physiology. Examining the impact of anthropogenic disturbances in a habitat on lizards’ ability to survive predation and heal from wounds. [Read More](./stressphysiology.html)
 
-**Drought Impacts on blunt-nosed leopard lizard hydrophysiology and diet (_2021-2024_)**
+**Drought impacts on blunt-nosed leopard lizard hydrophysiology and diet (_2021-2024_)**
 
 - Studied water loss across the skin in blunt-nosed leopard lizards and quantified dietary water availability. [Read More](./BNLL.html)
 
-**Northern Elephant Seal Population Ecology and Behavior (_2022-2023_)**
+**Northern elephant seal population ecology and behavior (_2022-2023_)**
 
 - Completed a research internship with Friends of the Elephant Seal + was a field research team leader for Cal Poly's elephant seal program [Read More](./eseals.html)
 
