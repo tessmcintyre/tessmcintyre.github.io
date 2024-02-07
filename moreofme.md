@@ -1,3 +1,9 @@
+---
+layout: default
+title: More...
+description: Societies, leadership, presentations
+---
+
 ## Societies and Leadership
 
  - American Society of Ichthyologists and Herpetologists (_2022-present_)
