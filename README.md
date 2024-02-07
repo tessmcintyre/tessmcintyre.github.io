@@ -1,3 +1,9 @@
+---
+layout: default
+title: Tess McIntyre
+description: Wildlife Research Across California
+---
+
 ## Education							       		
 - M.S. Wildlife Physiology - San Jose State University (_2023-2025_)	 			        		
 - B.S. Environmental Management and Protection, Wildlife Biology - Cal Poly, San Luis Obispo (_2019-2023_)
