@@ -1,3 +1,9 @@
+---
+layout: default
+title: Gambelia sila research
+description: Carrizo Plain National Monument
+---
+
 ## Blunt-nosed leopard lizard research | Physiological Ecology of Reptiles Lab @ Cal Poly SLO
 #### Lizard Osmoregulation
 - Studied seasonal changes of evaporative water loss in Blunt-nosed Leopard Lizards (BNLL)
