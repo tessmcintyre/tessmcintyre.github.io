@@ -1,10 +1,4 @@
----
-layout: default
-title: Tess McIntyre
-description: Wildlife Research Across California
----
-
-## About
+## Tess McIntyre (she/her)
 Biological sciences master's student at San Jose State University with research interests in reptile physiology, desert ecosystem ecology, and endangered species conservation. Also passionate about ecofeminism, marine mammal behavior, and science outreach 🦎
 
 Email: tess.mcintyre@sjsu.edu
