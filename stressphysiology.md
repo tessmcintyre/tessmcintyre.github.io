@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lizard Stress Physiology
+description: M.S. Thesis as SJSU
+---
 ## Transgenerational stress physiology | Ensminger Stress Physiology Lab @ SJSU
 Studying the transgenerational impact of stress can aid in predicting long-term consequences of stress in a species. When organisms are presented with increased physiological stress across generations, physiological and behavioral tradeoffs can emerge so that the organism can survive in a more stressful environment 
 
