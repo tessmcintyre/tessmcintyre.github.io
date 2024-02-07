@@ -1,12 +1,22 @@
+---
+layout: default
+title: Tess McIntyre
+description: Wildlife Research Across California
+---
+
+## About
+Biological sciences master's student at San Jose State University with research interests in reptile physiology, desert ecosystem ecology, and endangered species conservation. Also passionate about ecofeminism, marine mammal behavior, and science outreach 🦎
+
+Email: tess.mcintyre@sjsu.edu
+
+LinkedIn: [@tessmcintyre](./https://www.linkedin.com/in/tessmcintyre/)
+
+Living CV: [Links to Google Docs](./https://docs.google.com/document/d/1bI2r__Oez5Ioz6P-OCITQES_pvT23VSpC0dJUuF_5PA/edit?usp=sharing/)
+
 ## Education							       		
 - M.S. Wildlife Physiology - San Jose State University (_2023-2025_)	 			        		
 - B.S. Environmental Management and Protection, Wildlife Biology - Cal Poly, San Luis Obispo (_2019-2023_)
   - Minors: Spanish, Gender Studies
-
-## Contact
-Email: tess.mcintyre@sjsu.edu
-
-Twitter: @tessaileenn
 
 ## Research Experience
 **Transgenerational impacts of maternal stress in fence lizards (_2023-2025_)**
@@ -38,22 +48,10 @@ Twitter: @tessaileenn
 - BIOL 30: Topics include biomolecules, animal physiology, and cellular functions
 - BIOL 31: Topics include ecology, evolution, and California biodiversity
 
-## Presentations
-**Whatcha Drinking? Blunt-nosed Leopard Lizards’ Prey Water Content Changes Between Drought and Wet Years** (Poster - author & presenter)
-- February 2024. The Wildlife Society - Western Section Annual Meeting. Rohnert Park, CA.
+### [Presentations, memberships, etc](./moreofme.html)
 
-**Conservation Biology in California** (Guest lecture)
-- December 2023. BIOL 31, Principles of Biology II, San Jose State University, CA
+### [Resources for SJSU Undergrads](./SJSUresources.html)
+   
 
-**Watery going to do about Drought Impacts on Lizards?: Osmoregulation of Blunt-Nosed Leopard Lizards** (Poster - author & presenter)
-- May 2023. The Morro Bay National Estuary Program State of the Bay Series. San Luis Obispo, CA. **Invited talk. 
-- February 2023. The Wildlife Society - Western Section Annual Meeting. Riverside, CA. 
-- October 2022. California Central Coast Chapter of The Wildlife Society's Annual Wildlife Symposium, San Luis Obispo, CA 
-- July 2022. Joint Meeting of Ichthyologists and Herpetologists, Spokane, WA. 
-
-**A Behavioral Investigation of Northern Elephant Seal Superweaners and Teeny-Weanies Based on Body Condition** (Presentation - author & presenter)
-- June 2022. Friends of the Elephant Seal Continuing Education Seminar, San Simeon, CA. 
-
-**Physiological impacts of climate change in Gambelia sila & Sceloporus occidentalis** (Presentation - author & presenter)
-- August 2021. Frost Summer Undergraduate Research Symposium, San Luis Obispo, CA.
+  
 
