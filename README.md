@@ -14,21 +14,24 @@ Email: tess.mcintyre@sjsu.edu
 
 Twitter: @tessaileenn
 
-## Projects
-**Transgenerational impacts of maternal stress in Sceloporus occidentalis: Wound healing capabilities in lizard neonates (_2023-2025_)**
+## Research Experience
+**Transgenerational impacts of maternal stress in fence lizards (_2023-2025_)**
 
 - Master's thesis work in western fence lizard stress physiology. Examining the impact of anthropogenic disturbances in a habitat on lizards’ ability to survive predation and heal from wounds. [Read More](./stressphysiology.html)
 
-**Drought Impacts on Gambelia sila: Endangered lizard hydrophysiology and diet (_2021-2024_)**
+**Drought Impacts on blunt-nosed leopard lizard hydrophysiology and diet (_2021-2024_)**
 
 - Studied water loss across the skin in blunt-nosed leopard lizards and quantified dietary water availability. [Read More](./BNLL.html)
 
 **Northern Elephant Seal Population Ecology and Behavior (_2022-2023_)**
 
-- Completed a research internship with Friends of the Elephant Seal + was a research team leader for Cal Poly's elephant seal program
+- Completed a research internship with Friends of the Elephant Seal + was a field research team leader for Cal Poly's elephant seal program [Read More](./eseals.html)
 
 **Carrizo Plain Ecological Project (_2022-2023_)**
-- Giant Kangaroo Rat and San Joaquin antelope squirrel monitoring in Carrizo Plain National Monument
+- Giant Kangaroo Rat and San Joaquin antelope squirrel monitoring in Carrizo Plain National Monument. [Read More](./CPEP.html)
+
+**Additional work in wildlife biology and management (_2022-2023_)**
+- Assisted with smaller scale projects involving rattlesnakes and birds @ Cal Poly. [Read More](./moreresearch.html)
 
 ## Work Experience
 **Natural History Museum Assitant Curator (_January 2024 - Present_)**
