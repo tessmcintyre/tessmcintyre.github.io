@@ -19,7 +19,4 @@ description: Snake and Bird Management
 - Developed survey methodology appropriate for the habitat
 - Created and analyzed diversity indices and statistical analysis of species diversity
 
-[back](./)
-
-
 
