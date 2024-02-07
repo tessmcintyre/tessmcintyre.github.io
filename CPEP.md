@@ -14,3 +14,4 @@ description: Carrizo Plain National Monument
 - Differentiated patterns of small mammal presence from abiotic landscape features
 - Trained 5 undergraduates in ArcGIS techniques
 
+[back](./)
