@@ -32,7 +32,7 @@ Living CV: [Links to Google Docs](https://docs.google.com/document/d/1bI2r__Oez5
 - Assisted with smaller scale projects involving rattlesnakes and birds @ Cal Poly. [Read More](./moreresearch.html)
 
 ## Work Experience
-**Natural History Museum Assitant Curator (_January 2024 - Present_)**
+**Natural History Museum Assistant Curator (_January 2024 - Present_)**
 - Managing a database of 5000+ vertebrate specimens in SJSU's natural history collections museum
 - Identifying, cataloging, and maintaining specimens
 - Creating outreach initiatives to educate the public about the specimens
