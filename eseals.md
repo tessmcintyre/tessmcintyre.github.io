@@ -16,3 +16,4 @@ description: Piedras Blancas Rookery
 - Currently assisting with writing up a paper on elephant seal stress & its impacts on their renin angiotensin aldosterone system
 - Analyzing data and creating tables for publication 
 
+[back](./)
