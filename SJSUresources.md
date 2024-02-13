@@ -8,6 +8,11 @@ description: How to get involved on campus!
 - [SJSU UG Research Site Link](https://sites.google.com/sjsu.edu/ugresearchopportunities/home)
 - [All SJSU Bio Labs](https://www.sjsu.edu/biology/research/)
 
+### Student Funding
+- [SJSU Bio Department Scholarships](http://www.sjsu.edu/biology/academic-resources/scholarships.php)
+- [The Wildlife Society Trailblazer Grant](http://tinyurl.com/TrailBlazerGrant2024)
+  - Get $ for field gear!
+
 ### Active Biology/STEM Clubs on Campus
 - SACNAS-Society for the Advancement of Chicanos/Hispanics and Native Americans in Science (@sacnasatsjsu)
 - Alpha Omega Epsilon-professional STEM focused sorority (@a.o.e.sjsu)
