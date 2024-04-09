@@ -7,6 +7,7 @@ description: How to get involved on campus!
 ### Undergraduate Research Opportunities in STEM at SJSU
 - [SJSU UG Research Site Link](https://sites.google.com/sjsu.edu/ugresearchopportunities/home)
 - [All SJSU Bio Labs](https://www.sjsu.edu/biology/research/)
+- [SJSU Research Week is every April!](https://www.sjsu.edu/research/about/events/research-week/)
 
 ### Student Funding
 - [SJSU Bio Department Scholarships](http://www.sjsu.edu/biology/academic-resources/scholarships.php)
